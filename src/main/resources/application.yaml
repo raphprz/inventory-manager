@@ -1,0 +1,14 @@
+spring:
+  data:
+    mongodb:
+      auto-index-creation: true
+      uri: mongodb://localhost:27017/inventory
+
+app:
+  allowed-items:
+    food:
+      - cake
+      - cucumber
+    clothes:
+      - shoes
+      - pants

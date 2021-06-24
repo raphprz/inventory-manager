@@ -1,0 +1,8 @@
+app:
+  allowed-items:
+    cat1:
+      - subcat1
+      - subcat2
+    cat2:
+      - subcat3
+      - subcat4
